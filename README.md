@@ -10,7 +10,7 @@ ms.locfileid: "145192785"
 
 이 리포지토리에는 Microsoft 과정 [DP-100 Azure의 데이터 과학 솔루션 디자인 및 구현](https://docs.microsoft.com/learn/certifications/courses/dp-100t01) 및 이 과정에 해당하는 [Microsoft Learn의 자기 주도적 모듈](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/)용 실습 랩 연습이 포함되어 있습니다. 학습 자료와 함께 제공되는 이러한 랩에서는 학습 자료에 설명되어 있는 기술을 사용하여 연습을 진행할 수 있습니다.
 
-교육자가 주도하는 과정에서 이러한 랩을 사용하는 경우 학생들은 과정에 제공된 Azure 구독을 사용해야 합니다.
+강사 진행 과정에서 이러한 랩을 사용하는 경우 학생들은 과정에 제공된 Azure 구독을 사용해야 합니다.
 
 ## <a name="what-are-we-doing"></a>Microsoft의 역할
 

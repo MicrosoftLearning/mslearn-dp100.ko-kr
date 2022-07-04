@@ -1,12 +1,12 @@
 ---
 lab:
   title: 자동화된 Machine Learning 사용
-ms.openlocfilehash: 70580a25d4bcd3929697874650ea6865262871f4
-ms.sourcegitcommit: d2354e40eec31c22eb09381c6a890311cccc30c9
+ms.openlocfilehash: a4908c0de74edb6c2fdf7b1a7288014d1ab86b94
+ms.sourcegitcommit: 48bc4227570b0817702d195aa06fa4dabe1bbdd7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2022
-ms.locfileid: "146266842"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146733070"
 ---
 # <a name="use-automated-machine-learning"></a>자동화된 Machine Learning 사용
 
@@ -42,7 +42,7 @@ Azure Machine Learning에는 클라우드 컴퓨팅의 확장성을 활용하여
 이제 데이터를 처리하는 데 사용할 수 있는 컴퓨팅 리소스를 만들었으므로 처리할 데이터를 저장하고 수집할 방법을 결정해야 합니다.
 
 1. 웹 브라우저에서 https://aka.ms/diabetes-data에 접속해 쉼표로 구분된 데이터를 확인합니다. 그런 다음 이 데이터를 **diabetes.csv** 라는 로컬 파일로 저장합니다. 저장 위치는 상관없습니다.
-2. Azure Machine Learning Studio에서 **데이터 세트** 페이지를 확인합니다. 데이터 세트는 Azure ML에서 사용할 특정 데이터 파일이나 테이블을 나타냅니다.
+2. Azure Machine Learning 스튜디오에서 **데이터** 페이지를 확인합니다. 데이터 세트는 Azure ML에서 사용할 특정 데이터 파일이나 테이블을 나타냅니다.
 3. 다음 설정을 사용하여 로컬 파일에서 새 데이터 세트를 만듭니다.
     * **기본 정보**:
         * **이름**: diabetes dataset
